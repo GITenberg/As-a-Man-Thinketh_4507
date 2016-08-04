@@ -1,0 +1,43 @@
+_repo: As-a-Man-Thinketh_4507
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Allen, James
+    birthdate: 1864
+    deathdate: 1912
+    gutenberg_agent_id: '1483'
+    url: http://www.gutenberg.org/2009/agents/1483
+    wikipedia: http://en.wikipedia.org/wiki/James_Allen_(author)
+description: "As a Man Thinketh is a literary essay and book by James Allen, published\
+  \ in 1903. It was described by Allen as \"... [dealing] with the power of thought,\
+  \ and particularly with the use and application of thought to happy and beautiful\
+  \ issues. I have tried to make the book simple, so that all can easily grasp and\
+  \ follow its teaching, and put into practice the methods which it advises. It shows\
+  \ how, in his own thought—world, each man holds the key to every condition, good\
+  \ or bad, that enters into his life, and that, by working patiently and intelligently\
+  \ upon his thoughts, he may remake his life, and transform his circumstances. The\
+  \ price of the book is only one shilling, and it can be carried in the pocket.\"\
+  \  It was also described by Allen as \"A book that will help you to help yourself\"\
+  , \"A pocket companion for thoughtful people\", and \"A book on the power and right\
+  \ application of thought.\"\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4507'
+  wikidata: Q4803053
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'New Thought'
+- GITenberg
+tableOfContents: Thought and character -- Effect of thought on circumstances -- Effect
+  of thought on health and the body -- Thought and purpose -- The thought factor in
+  achievement -- Visions and ideals -- Serenity.
+title: As a Man Thinketh
+url: http://www.gutenberg.org/ebooks/4507
+wikipedia:
+- https://en.wikipedia.org/wiki/As_a_Man_Thinketh
+- https://he.wikiquote.org/wiki/%D7%90%D7%93%D7%9D_%D7%9B%D7%99%D7%A6%D7%99%D7%A8_%D7%9E%D7%97%D7%A9%D7%91%D7%95%D7%AA%D7%99%D7%95
